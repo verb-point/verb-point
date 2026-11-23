@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Michael Carter 👋
 
-<!--
-**verb-point/verb-point** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a writer at [VerbPoint](https://verbpoint.com), where I explain text abbreviations, slang meanings, and phone messaging features in simple, clear language.
 
-Here are some ideas to get you started:
+## What I write about
+- Text and social media slang
+- Abbreviations and their full forms
+- iPhone and mobile messaging guides
+- Everyday digital communication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Popular guides
+- [What does IMO mean in text?](https://verbpoint.com/imo-meaning/)
+- [What does IMHO mean?](https://verbpoint.com/imho-meaning/)
+- [What does TBH mean?](https://verbpoint.com/tbh-meaning/)
+
+## Find me online
+- 🌐 Website: [verbpoint.com](https://verbpoint.com)
+- 📌 [Pinterest](https://www.pinterest.com/verbpoint/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/verb-point-4187a4451/)
